@@ -6,7 +6,6 @@ Este é um sistema simples de locadora de filmes desenvolvido em PHP como projet
 - Aluguel de filmes 📦
 - Devolução com cálculo de multa 💰
 - Interface básica em HTML
-
 🛠️ Tecnologias Utilizadas
 - PHP (sem framework)
 - HTML5
@@ -15,3 +14,5 @@ Este é um sistema simples de locadora de filmes desenvolvido em PHP como projet
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+📌 Observações
+Este projeto foi feito com fins educacionais e para compor meu portfólio de desenvolvedor
